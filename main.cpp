@@ -3,7 +3,6 @@
 #include <string.h>
 #include <stdlib.h>
 #include <math.h>
-
 #define PI 3.14159
 #define WIN_WIDTH 1920
 #define WIN_HEIGHT 1080
@@ -23,7 +22,6 @@
 #define WHEEL_OFFSET 0.11f
 #define WHEEL_LEN 0.8f
 #define TOP_LEN 1.0f
-
 #define FRONT_ROD 2.5f
 #define CRANK_ROD 1.9f
 #define CRANK_RODS 2.5f
